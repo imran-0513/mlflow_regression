@@ -1,7 +1,0 @@
-artifact_location: file:///D:/Training/MLproject/ML_Flow/Regression/wine_quality_prediction/mlruns/368371218965207889
-creation_time: 1705056231275
-experiment_id: '368371218965207889'
-last_update_time: 1705056859984
-lifecycle_stage: active
-name: wine_quality_experiment
-tags: {}

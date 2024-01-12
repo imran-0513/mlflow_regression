@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Training/MLproject/ML_Flow/Regression/wine_quality_prediction/mlruns/816647731701475715/af642438c83541e7b279a22f5827a94c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '816647731701475715'
+lifecycle_stage: active
+run_id: af642438c83541e7b279a22f5827a94c
+run_name: blushing-fox-917
+run_uuid: af642438c83541e7b279a22f5827a94c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705057872195
+status: 1
+tags: []
+user_id: Imran.Munshi
