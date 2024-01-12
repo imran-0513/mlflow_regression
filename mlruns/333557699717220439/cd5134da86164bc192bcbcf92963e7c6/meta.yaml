@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Training/MLproject/ML_Flow/Regression/wine_quality_prediction/mlruns/333557699717220439/cd5134da86164bc192bcbcf92963e7c6/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '333557699717220439'
+lifecycle_stage: active
+run_id: cd5134da86164bc192bcbcf92963e7c6
+run_name: loud-ape-629
+run_uuid: cd5134da86164bc192bcbcf92963e7c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705057016136
+status: 1
+tags: []
+user_id: Imran.Munshi

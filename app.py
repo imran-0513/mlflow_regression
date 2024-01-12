@@ -56,7 +56,7 @@ if __name__ == "__main__":
     l1_ratio = float(sys.argv[2]) if len(sys.argv) > 2 else 0.5
 
     # Specify the experiment_id directly
-    experiment_id = "368371218965207889"
+    experiment_id = "524451629784025854"
     mlflow.set_experiment(experiment_id)
 
     with mlflow.start_run():
