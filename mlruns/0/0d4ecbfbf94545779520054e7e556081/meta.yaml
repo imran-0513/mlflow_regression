@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Training/MLproject/ML_Flow/Regression/wine_quality_prediction/mlruns/0/0d4ecbfbf94545779520054e7e556081/artifacts
+end_time: 1705034974535
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d4ecbfbf94545779520054e7e556081
+run_name: abrasive-wren-281
+run_uuid: 0d4ecbfbf94545779520054e7e556081
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705034970383
+status: 3
+tags: []
+user_id: Imran.Munshi

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Training/MLproject/ML_Flow/Regression/wine_quality_prediction/mlruns/0/990d1bc198ff4ac6a0c2692a3108899a/artifacts
+end_time: 1704993998736
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 990d1bc198ff4ac6a0c2692a3108899a
+run_name: welcoming-mink-808
+run_uuid: 990d1bc198ff4ac6a0c2692a3108899a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704993994866
+status: 3
+tags: []
+user_id: Imran.Munshi
