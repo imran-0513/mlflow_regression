@@ -3,18 +3,20 @@
 
 ## for dagshub
 
-MLFLOW_TRACKING_URI=https://dagshub.com/entbappy/chest-Disease-Classification-MLflow-DVC.mlflow
-MLFLOW_TRACKING_USERNAME=entbappy
-MLFLOW_TRACKING_PASSWORD=6824692c47a4545eac5b10041d5c8edbcef0
-
+MLFLOW_TRACKING_URI=https://dagshub.com/imran-0513/mlflow_regression.mlflow \
+MLFLOW_TRACKING_USERNAME=imran-0513 \
+MLFLOW_TRACKING_PASSWORD=5c60586943db957a52d4081ae667fe6d2e6cd2b9 \
+python script.py
 
 ``` bash
 
 
-export MLFLOW_TRACKING_URI=https://dagshub.com/entbappy/chest-Disease-Classification-MLflow-DVC.mlflow
+export MLFLOW_TRACKING_URI=https://dagshub.com/imran-0513/mlflow_regression.mlflow
 
-export MLFLOW_TRACKING_USERNAME=entbappy 
+##for windows command or vscode we use "set" instead "export"
 
-export MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9353c5b10041d5c8edbcef0
+export MLFLOW_TRACKING_USERNAME=imran-0513 
+
+export MLFLOW_TRACKING_PASSWORD=5c60586943db957a52d4081ae667fe6d2e6cd2b9
 
 ```
